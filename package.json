@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_express",
+  "version": "1.0.0",
+  "description": "FullStack 2020 Course Chapter 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Notes.js",
+    "dev": "nodemon Notes.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay Desai",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
