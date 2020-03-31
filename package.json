@@ -2,7 +2,7 @@
   "name": "nodejs_express",
   "version": "1.0.0",
   "description": "FullStack 2020 Course Chapter 3",
-  "main": "index.js",
+  "main": "build/index.html",
   "scripts": {
     "start": "node Notes.js",
     "dev": "nodemon Notes.js",
